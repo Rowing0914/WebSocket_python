@@ -1,5 +1,5 @@
 ## Introduction
-This is experimental implementation of WebSocket in Python.  
+This is an experimental implementation of WebSocket in Python.  
 
 ## Version
 Python: 3.6
